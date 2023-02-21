@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "text": "Deep Learning Lab Book",
+      "day": "Feb 25th 11:00 AM",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Cognitive Computing Lab Book",
+      "day": "Feb 25th 1:10 PM",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "JavaScript Training",
+      "day": "Feb 25th 9:00AM",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "React Training",
+      "day": "Feb 25th 7:10 PM",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Service Now Online Training",
+      "day": "FEB 27th 10:00AM",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Going Home",
+      "day": "Feb 30th 5:00PM",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
